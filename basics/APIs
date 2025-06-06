@@ -1,0 +1,16 @@
+API :
+  - API stands for Application Programming Interface.
+  - API helps to share data between two or more applications in different forms and through different protocols
+    using different communication mode.
+  - multiple APIs are there .
+  - Example:
+        REST, SOAP, Websocket etc....
+SOAP :
+  - Simplem Object Access Protocol.
+  - Uses XML
+  - Request and Response mode of communication b/w the server and the client.
+  - Statefull ( store user data b/w every request ).
+  - Slower and heavy weigth than REST API.
+  - Mostly used for Enterprise based applications.
+  - Not popular in modern times.
+
