@@ -14,3 +14,20 @@ SOAP :
   - Mostly used for Enterprise based applications.
   - Not popular in modern times.
 
+Rest API:
+  - Rest API stands for Representational State Transfer.
+  - Stateless API service
+  - Used for normal softwares and mobile applications
+  - Light weight than SOAP
+  - Use Request and Response to made the communication between client and server
+  - Uses json, xml, text and other data formats for communication
+  - Faster than SOAP and it is famous in the modern times.
+
+API Integration:
+  - In API we make integration to automate some of the tasks between two APIs.
+  - Auto syncing the data in the pc or laptop , while we are moving to differnt time zones.
+  - API integration is done to make the application work more efficiently and used to automate some task.
+
+
+  
+
